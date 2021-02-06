@@ -30,4 +30,6 @@ int multiplier2(int valeur_a, int valeur_b, int valeur_c ) {
 void multiplier3(int valeur_a, int valeur_b) {
   int affichage = valeur_a * valeur_b;
   std::cout << affichage;
+  
+  
 }
