@@ -17,7 +17,9 @@ int main() {
 
 int multiplier1(int valeur_a, int valeur_b) {
   int retour = valeur_a * valeur_b;
-  return retour;
+  return retour
+  
+  
 }
 
 int multiplier2(int valeur_a, int valeur_b, int valeur_c ) {
